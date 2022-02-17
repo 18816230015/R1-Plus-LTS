@@ -10,6 +10,7 @@ env:
   DIY_SH: immortalwrt.sh
   TZ: Asia/Shanghai
   RELEASE: true
+  GITHUB_TOKEN: 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
 
 jobs:
   build:
